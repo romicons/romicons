@@ -1,16 +1,35 @@
-### Hi there 👋
+<div align="center">
+  
+## Hello there! 👋🏻 
 
-<!--
-**romicons/romicons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Romina Constantinoff
 
-Here are some ideas to get you started:
+## 🎨 Frontend Web Developer 🖌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### Technologies I Love:
+
+JavaScript | React | Sass | GIT | HTML5 | CSS3 | Bootstrap
+
+### What I'm Up To:
+
+- 🚀 Diving deep into React.
+- 📘 Pursuing studies at Ada ITW, empowering women in IT.
+- 🎨 Crafting an animated book for my portfolio - a work in progress, but you can sneak a peek [here](https://romicons.github.io/Animated-Book-Portfolio/).
+
+### Let's Collaborate! 💡
+
+- 🌐 Open to exciting collaborations.
+- 🌱 Always hungry to learn and explore new things.
+- 💬 Discuss your projects and ideas with me. I'm here to help!
+
+### Get in Touch! 🚀
+
+- 📫 Reach out on [LinkedIn](your_Linkedin_link).
+  
+<div align="center">
+  🌌 Hope to connect with you soon!
+  
+  See you later, and <b>may the force be with you.</b> 🌠
+</div>
