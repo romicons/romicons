@@ -26,7 +26,7 @@ JavaScript | React | Sass | GIT | HTML5 | CSS3 | Bootstrap
 
 ### Get in Touch! 🚀
 
-- 📫 Reach out on [LinkedIn](your_Linkedin_link).
+- 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/romina-evelin-constantinoff/).
   
 <div align="center">
   🌌 Hope to connect with you soon!
