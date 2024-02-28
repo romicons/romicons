@@ -10,7 +10,7 @@
 
 ### Technologies I Love:
 
-JavaScript | React | Sass | GIT | HTML5 | CSS3 | Bootstrap
+JavaScript | React | Sass | GIT | HTML5 | CSS3 | Bootstrap | Tailwind 
 
 ### What I'm Up To:
 
