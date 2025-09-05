@@ -10,13 +10,13 @@
 
 ### Technologies I Love:
 
-JavaScript | React | Material UI| Sass | GIT | HTML5 | CSS3 | Bootstrap | Tailwind 
+JavaScript | TypeScript | React | Material UI | Chakra UI | Sass | Tailwind CSS | HTML5 | CSS3 | Node.js | Firebase | Git | npm
 
 ### What I'm Up To:
 
-- 🚀 Diving deep into React.
-- 📘 Pursuing studies at Ada ITW, empowering women in IT.
-- 🎨 Crafting an animated book for my portfolio - a work in progress, but you can sneak a peek [here](https://romicons.github.io/Animated-Book-Portfolio/).
+- 🚀 Crafting responsive and interactive web apps with React.
+- ✉️ Applying frontend & email development skills in professional projects for Microsoft.
+- 🌟 Continuously exploring new tools and techniques to create clean, user-friendly interfaces.
 
 ### Let's Collaborate! 💡
 
